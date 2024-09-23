@@ -1,0 +1,17 @@
+instal as dp
+
+composer install
+
+
+
+Popular a DB
+
+php artisan migrate
+php artisan db:seed
+
+
+
+
+depois de tudo, Iniciar o projeto 
+
+php artisan serve
